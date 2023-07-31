@@ -1,3 +1,3 @@
-# Adressbuch-Freitagsaufgabe
+# Adressbuch Empty
 
-Hier entsteht ein Adressbuch als Freitagsaufgabe in der Ich die Recyclerview verwende.
+Empty
